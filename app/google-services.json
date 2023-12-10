@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "554223337366",
+    "firebase_url": "https://guardian-safe-c3b2f-default-rtdb.firebaseio.com",
+    "project_id": "guardian-safe-c3b2f",
+    "storage_bucket": "guardian-safe-c3b2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554223337366:android:8bb88653b62a9bb2f927b7",
+        "android_client_info": {
+          "package_name": "com.csl.cupcake_factory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554223337366-h0soo6ebhf3tr2supup1cefbg1nvf3de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk5rannwXCMZj3tELmZGM_0ifgNG0lLNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554223337366-h0soo6ebhf3tr2supup1cefbg1nvf3de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554223337366:android:fe533dd18d392b06f927b7",
+        "android_client_info": {
+          "package_name": "com.example.gs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554223337366-h0soo6ebhf3tr2supup1cefbg1nvf3de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk5rannwXCMZj3tELmZGM_0ifgNG0lLNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554223337366-h0soo6ebhf3tr2supup1cefbg1nvf3de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554223337366:android:ec9714350f52f97ff927b7",
+        "android_client_info": {
+          "package_name": "com.example.guardiansafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554223337366-h0soo6ebhf3tr2supup1cefbg1nvf3de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk5rannwXCMZj3tELmZGM_0ifgNG0lLNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554223337366-h0soo6ebhf3tr2supup1cefbg1nvf3de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

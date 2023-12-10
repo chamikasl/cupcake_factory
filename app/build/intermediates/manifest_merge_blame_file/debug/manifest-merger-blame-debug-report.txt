@@ -1,0 +1,215 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.csl.cupcake_factory"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:5:5-80
+11-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:5:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:6:5-81
+12-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.INTERNET" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+13-->[com.firebaseui:firebase-ui-database:3.2.2] /Users/chamikasl/.gradle/caches/transforms-3/e9c7c2d638087bc46e46000e9187081f/transformed/jetified-firebase-ui-database-3.2.2/AndroidManifest.xml:11:5-67
+13-->[com.firebaseui:firebase-ui-database:3.2.2] /Users/chamikasl/.gradle/caches/transforms-3/e9c7c2d638087bc46e46000e9187081f/transformed/jetified-firebase-ui-database-3.2.2/AndroidManifest.xml:11:22-64
+14    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-database:20.2.1] /Users/chamikasl/.gradle/caches/transforms-3/f98d282c4bedca3833ca2401d2e8007f/transformed/jetified-firebase-database-20.2.1/AndroidManifest.xml:24:5-79
+15-->[com.google.firebase:firebase-database:20.2.1] /Users/chamikasl/.gradle/caches/transforms-3/f98d282c4bedca3833ca2401d2e8007f/transformed/jetified-firebase-database-20.2.1/AndroidManifest.xml:24:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->[com.google.android.gms:play-services-measurement-api:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/cfe0860f7e1cefbaf3aec2c160ebac0c/transformed/jetified-play-services-measurement-api-21.2.2/AndroidManifest.xml:24:5-68
+16-->[com.google.android.gms:play-services-measurement-api:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/cfe0860f7e1cefbaf3aec2c160ebac0c/transformed/jetified-play-services-measurement-api-21.2.2/AndroidManifest.xml:24:22-65
+17    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+17-->[com.google.android.gms:play-services-measurement-api:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/cfe0860f7e1cefbaf3aec2c160ebac0c/transformed/jetified-play-services-measurement-api-21.2.2/AndroidManifest.xml:25:5-79
+17-->[com.google.android.gms:play-services-measurement-api:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/cfe0860f7e1cefbaf3aec2c160ebac0c/transformed/jetified-play-services-measurement-api-21.2.2/AndroidManifest.xml:25:22-76
+18    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+18-->[com.google.android.gms:play-services-measurement:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/80dbcfd092960ad27c851c7333445458/transformed/jetified-play-services-measurement-21.2.2/AndroidManifest.xml:26:5-110
+18-->[com.google.android.gms:play-services-measurement:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/80dbcfd092960ad27c851c7333445458/transformed/jetified-play-services-measurement-21.2.2/AndroidManifest.xml:26:22-107
+19
+20    <application
+20-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:8:5-40:19
+21        android:allowBackup="true"
+21-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:10:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.3.1] /Users/chamikasl/.gradle/caches/transforms-3/1f58f9896dbeb7bd9f1765c561ab66f7/transformed/core-1.3.1/AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:icon="@mipmap/ic_launcher"
+25-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:11:9-43
+26        android:label="@string/app_name"
+26-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:12:9-41
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:13:9-54
+28        android:supportsRtl="true"
+28-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:14:9-35
+29        android:theme="@style/Theme.Cupcake_factory" >
+29-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:15:9-53
+30        <activity android:name="com.csl.cupcake_factory.User.HomeActivity" />
+30-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:18:9-78
+30-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:18:19-75
+31        <activity android:name="com.csl.cupcake_factory.User.SettingsActivity" />
+31-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:19:9-82
+31-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:19:19-79
+32        <activity android:name="com.csl.cupcake_factory.User.SearchProductsActivity" />
+32-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:20:9-88
+32-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:20:19-85
+33        <activity android:name="com.csl.cupcake_factory.RegisterActivity" />
+33-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:21:9-77
+33-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:21:19-74
+34        <activity android:name="com.csl.cupcake_factory.User.ProductDetailsActivity" />
+34-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:22:9-88
+34-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:22:19-85
+35        <activity android:name="com.csl.cupcake_factory.LoginActivity" />
+35-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:23:9-74
+35-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:23:19-71
+36        <activity android:name="com.csl.cupcake_factory.User.ConfirmFinalOrderActivity" />
+36-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:24:9-91
+36-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:24:19-88
+37        <activity android:name="com.csl.cupcake_factory.User.CartActivity" />
+37-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:25:9-78
+37-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:25:19-75
+38        <activity android:name="com.csl.cupcake_factory.Admin.OrderedProductsActivity" />
+38-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:26:9-90
+38-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:26:19-87
+39        <activity android:name="com.csl.cupcake_factory.Admin.NewOrdersActivity" />
+39-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:27:9-84
+39-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:27:19-81
+40        <activity android:name="com.csl.cupcake_factory.Admin.AddNewCategoryActivity" />
+40-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:28:9-89
+40-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:28:19-86
+41        <activity android:name="com.csl.cupcake_factory.Admin.AddNewProductActivity" />
+41-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:29:9-88
+41-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:29:19-85
+42        <activity android:name="com.csl.cupcake_factory.Admin.MainScreenActivity" />
+42-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:30:9-85
+42-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:30:19-82
+43        <activity android:name="com.csl.cupcake_factory.SplashScreenActivity" >
+43-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:31:9-36:20
+43-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:31:19-78
+44            <intent-filter>
+44-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:32:13-35:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:33:17-69
+45-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:33:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:34:17-77
+47-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:34:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:37:9-39:59
+51            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+51-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:38:13-76
+52            android:theme="@style/Base.Theme.AppCompat" />
+52-->/Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/AndroidManifest.xml:39:13-56
+53
+54        <service
+54-->[com.google.firebase:firebase-database:20.2.1] /Users/chamikasl/.gradle/caches/transforms-3/f98d282c4bedca3833ca2401d2e8007f/transformed/jetified-firebase-database-20.2.1/AndroidManifest.xml:28:9-34:19
+55            android:name="com.google.firebase.components.ComponentDiscoveryService"
+55-->[com.google.firebase:firebase-database:20.2.1] /Users/chamikasl/.gradle/caches/transforms-3/f98d282c4bedca3833ca2401d2e8007f/transformed/jetified-firebase-database-20.2.1/AndroidManifest.xml:29:13-84
+56            android:directBootAware="true"
+56-->[com.google.firebase:firebase-common:20.3.2] /Users/chamikasl/.gradle/caches/transforms-3/4fcdbf866b5d1ec0e62605fdc11ddf06/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:34:13-43
+57            android:exported="false" >
+57-->[com.google.firebase:firebase-database:20.2.1] /Users/chamikasl/.gradle/caches/transforms-3/f98d282c4bedca3833ca2401d2e8007f/transformed/jetified-firebase-database-20.2.1/AndroidManifest.xml:30:13-37
+58            <meta-data
+58-->[com.google.firebase:firebase-database:20.2.1] /Users/chamikasl/.gradle/caches/transforms-3/f98d282c4bedca3833ca2401d2e8007f/transformed/jetified-firebase-database-20.2.1/AndroidManifest.xml:31:13-33:85
+59                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+59-->[com.google.firebase:firebase-database:20.2.1] /Users/chamikasl/.gradle/caches/transforms-3/f98d282c4bedca3833ca2401d2e8007f/transformed/jetified-firebase-database-20.2.1/AndroidManifest.xml:32:17-109
+60                android:value="com.google.firebase.components.ComponentRegistrar" />
+60-->[com.google.firebase:firebase-database:20.2.1] /Users/chamikasl/.gradle/caches/transforms-3/f98d282c4bedca3833ca2401d2e8007f/transformed/jetified-firebase-database-20.2.1/AndroidManifest.xml:33:17-82
+61            <meta-data
+61-->[com.google.firebase:firebase-storage:20.2.0] /Users/chamikasl/.gradle/caches/transforms-3/ceb8b53e44dfa173d410c92033cd3224/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:32:13-34:85
+62                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+62-->[com.google.firebase:firebase-storage:20.2.0] /Users/chamikasl/.gradle/caches/transforms-3/ceb8b53e44dfa173d410c92033cd3224/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:33:17-107
+63                android:value="com.google.firebase.components.ComponentRegistrar" />
+63-->[com.google.firebase:firebase-storage:20.2.0] /Users/chamikasl/.gradle/caches/transforms-3/ceb8b53e44dfa173d410c92033cd3224/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:34:17-82
+64            <meta-data
+64-->[com.google.android.gms:play-services-measurement-api:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/cfe0860f7e1cefbaf3aec2c160ebac0c/transformed/jetified-play-services-measurement-api-21.2.2/AndroidManifest.xml:31:13-33:85
+65                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+65-->[com.google.android.gms:play-services-measurement-api:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/cfe0860f7e1cefbaf3aec2c160ebac0c/transformed/jetified-play-services-measurement-api-21.2.2/AndroidManifest.xml:32:17-139
+66                android:value="com.google.firebase.components.ComponentRegistrar" />
+66-->[com.google.android.gms:play-services-measurement-api:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/cfe0860f7e1cefbaf3aec2c160ebac0c/transformed/jetified-play-services-measurement-api-21.2.2/AndroidManifest.xml:33:17-82
+67            <meta-data
+67-->[com.google.firebase:firebase-installations:17.1.3] /Users/chamikasl/.gradle/caches/transforms-3/683aa62ae853f2a20ccb0169ab756a2c/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:17:13-19:85
+68                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+68-->[com.google.firebase:firebase-installations:17.1.3] /Users/chamikasl/.gradle/caches/transforms-3/683aa62ae853f2a20ccb0169ab756a2c/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:18:17-127
+69                android:value="com.google.firebase.components.ComponentRegistrar" />
+69-->[com.google.firebase:firebase-installations:17.1.3] /Users/chamikasl/.gradle/caches/transforms-3/683aa62ae853f2a20ccb0169ab756a2c/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:19:17-82
+70        </service>
+71
+72        <provider
+72-->[com.squareup.picasso:picasso:2.71828] /Users/chamikasl/.gradle/caches/transforms-3/996c037f8a7363c0f8069eaba2cf2f94/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+73            android:name="com.squareup.picasso.PicassoProvider"
+73-->[com.squareup.picasso:picasso:2.71828] /Users/chamikasl/.gradle/caches/transforms-3/996c037f8a7363c0f8069eaba2cf2f94/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+74            android:authorities="com.csl.cupcake_factory.com.squareup.picasso"
+74-->[com.squareup.picasso:picasso:2.71828] /Users/chamikasl/.gradle/caches/transforms-3/996c037f8a7363c0f8069eaba2cf2f94/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+75            android:exported="false" />
+75-->[com.squareup.picasso:picasso:2.71828] /Users/chamikasl/.gradle/caches/transforms-3/996c037f8a7363c0f8069eaba2cf2f94/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+76        <provider
+76-->[com.google.firebase:firebase-common:20.3.2] /Users/chamikasl/.gradle/caches/transforms-3/4fcdbf866b5d1ec0e62605fdc11ddf06/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:25:9-30:39
+77            android:name="com.google.firebase.provider.FirebaseInitProvider"
+77-->[com.google.firebase:firebase-common:20.3.2] /Users/chamikasl/.gradle/caches/transforms-3/4fcdbf866b5d1ec0e62605fdc11ddf06/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:26:13-77
+78            android:authorities="com.csl.cupcake_factory.firebaseinitprovider"
+78-->[com.google.firebase:firebase-common:20.3.2] /Users/chamikasl/.gradle/caches/transforms-3/4fcdbf866b5d1ec0e62605fdc11ddf06/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:27:13-72
+79            android:directBootAware="true"
+79-->[com.google.firebase:firebase-common:20.3.2] /Users/chamikasl/.gradle/caches/transforms-3/4fcdbf866b5d1ec0e62605fdc11ddf06/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:28:13-43
+80            android:exported="false"
+80-->[com.google.firebase:firebase-common:20.3.2] /Users/chamikasl/.gradle/caches/transforms-3/4fcdbf866b5d1ec0e62605fdc11ddf06/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:29:13-37
+81            android:initOrder="100" />
+81-->[com.google.firebase:firebase-common:20.3.2] /Users/chamikasl/.gradle/caches/transforms-3/4fcdbf866b5d1ec0e62605fdc11ddf06/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:30:13-36
+82
+83        <activity
+83-->[com.google.android.gms:play-services-base:18.1.0] /Users/chamikasl/.gradle/caches/transforms-3/a9e782f5ff088881a477504433fba861/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+84            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+84-->[com.google.android.gms:play-services-base:18.1.0] /Users/chamikasl/.gradle/caches/transforms-3/a9e782f5ff088881a477504433fba861/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+85            android:exported="false"
+85-->[com.google.android.gms:play-services-base:18.1.0] /Users/chamikasl/.gradle/caches/transforms-3/a9e782f5ff088881a477504433fba861/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+86            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+86-->[com.google.android.gms:play-services-base:18.1.0] /Users/chamikasl/.gradle/caches/transforms-3/a9e782f5ff088881a477504433fba861/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+87
+88        <receiver
+88-->[com.google.android.gms:play-services-measurement:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/80dbcfd092960ad27c851c7333445458/transformed/jetified-play-services-measurement-21.2.2/AndroidManifest.xml:29:9-33:20
+89            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+89-->[com.google.android.gms:play-services-measurement:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/80dbcfd092960ad27c851c7333445458/transformed/jetified-play-services-measurement-21.2.2/AndroidManifest.xml:30:13-85
+90            android:enabled="true"
+90-->[com.google.android.gms:play-services-measurement:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/80dbcfd092960ad27c851c7333445458/transformed/jetified-play-services-measurement-21.2.2/AndroidManifest.xml:31:13-35
+91            android:exported="false" >
+91-->[com.google.android.gms:play-services-measurement:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/80dbcfd092960ad27c851c7333445458/transformed/jetified-play-services-measurement-21.2.2/AndroidManifest.xml:32:13-37
+92        </receiver>
+93
+94        <service
+94-->[com.google.android.gms:play-services-measurement:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/80dbcfd092960ad27c851c7333445458/transformed/jetified-play-services-measurement-21.2.2/AndroidManifest.xml:35:9-38:40
+95            android:name="com.google.android.gms.measurement.AppMeasurementService"
+95-->[com.google.android.gms:play-services-measurement:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/80dbcfd092960ad27c851c7333445458/transformed/jetified-play-services-measurement-21.2.2/AndroidManifest.xml:36:13-84
+96            android:enabled="true"
+96-->[com.google.android.gms:play-services-measurement:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/80dbcfd092960ad27c851c7333445458/transformed/jetified-play-services-measurement-21.2.2/AndroidManifest.xml:37:13-35
+97            android:exported="false" />
+97-->[com.google.android.gms:play-services-measurement:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/80dbcfd092960ad27c851c7333445458/transformed/jetified-play-services-measurement-21.2.2/AndroidManifest.xml:38:13-37
+98        <service
+98-->[com.google.android.gms:play-services-measurement:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/80dbcfd092960ad27c851c7333445458/transformed/jetified-play-services-measurement-21.2.2/AndroidManifest.xml:39:9-43:72
+99            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+99-->[com.google.android.gms:play-services-measurement:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/80dbcfd092960ad27c851c7333445458/transformed/jetified-play-services-measurement-21.2.2/AndroidManifest.xml:40:13-87
+100            android:enabled="true"
+100-->[com.google.android.gms:play-services-measurement:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/80dbcfd092960ad27c851c7333445458/transformed/jetified-play-services-measurement-21.2.2/AndroidManifest.xml:41:13-35
+101            android:exported="false"
+101-->[com.google.android.gms:play-services-measurement:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/80dbcfd092960ad27c851c7333445458/transformed/jetified-play-services-measurement-21.2.2/AndroidManifest.xml:42:13-37
+102            android:permission="android.permission.BIND_JOB_SERVICE" />
+102-->[com.google.android.gms:play-services-measurement:21.2.2] /Users/chamikasl/.gradle/caches/transforms-3/80dbcfd092960ad27c851c7333445458/transformed/jetified-play-services-measurement-21.2.2/AndroidManifest.xml:43:13-69
+103
+104        <meta-data
+104-->[com.google.android.gms:play-services-basement:18.1.0] /Users/chamikasl/.gradle/caches/transforms-3/8b49c29737c2c2e92b3416c0869b0d60/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+105            android:name="com.google.android.gms.version"
+105-->[com.google.android.gms:play-services-basement:18.1.0] /Users/chamikasl/.gradle/caches/transforms-3/8b49c29737c2c2e92b3416c0869b0d60/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+106            android:value="@integer/google_play_services_version" />
+106-->[com.google.android.gms:play-services-basement:18.1.0] /Users/chamikasl/.gradle/caches/transforms-3/8b49c29737c2c2e92b3416c0869b0d60/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+107    </application>
+108
+109</manifest>

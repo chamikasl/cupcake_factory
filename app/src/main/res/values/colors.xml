@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorSecondary">#FF03DAC5</color>
+    <color name="colorSecondaryVariant">#FF018786</color>
+    <color name="colorOnSecondary">#FF000000</color>
+    <color name="white">#EAE4E4</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="green">#38D13E</color>
+    <color name="yellow">#FFC107</color>
+    <color name="pink">#E91E63</color>
+    <color name="gray">#858384</color>
+    <color name="purple">#FFAA66CC</color>
+    <color name="blue">#FF00C2E0</color>
+
+    <color name="pink1">#ff9aaa</color>
+    <color name="pink2">#feeeef</color>
+    <color name="purple2">#ab5498</color>
+
+    <color name="colorPrimary">@android:color/holo_purple</color>
+    <color name="colorPrimaryDark">@android:color/holo_purple</color>
+    <color name="colorAccent">@android:color/holo_purple</color>
+
+    <color name="colorNotificationBar">#66000000</color>
+    <color name="colorWarning">#B3000000</color>
+    <color name="colorButtonNegative">#F5F5F5</color>
+    <color name="colorRed">@android:color/holo_red_dark</color>
+
+    <color name="colorFavoriteFalse">#80000000</color>
+    <color name="colorFavoriteTrue">#FFFF6666</color>
+
+    <color name="colorBackground">#FFFFFFFF</color>
+    <color name="colorBackgroundGlass">#1AD8E5F6</color>
+    <color name="colorCardView">#F5F5F5</color>
+    <color name="colorSlideView">#1A000000</color>
+
+    <color name="colorCanceled">@android:color/holo_red_dark</color>
+    <color name="colorOrdered">#FF00C2E0</color>
+    <color name="colorOnProcess">@android:color/holo_purple</color>
+    <color name="colorReceived">@android:color/holo_blue_dark</color>
+</resources>

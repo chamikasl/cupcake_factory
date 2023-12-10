@@ -1,0 +1,32 @@
+com.csl.cupcake_factory.app-jetified-material-1.3.1-0 /Users/chamikasl/.gradle/caches/transforms-3/0575d43d42056576c39e41c79269545a/transformed/jetified-material-1.3.1/res
+com.csl.cupcake_factory.app-core-1.3.1-1 /Users/chamikasl/.gradle/caches/transforms-3/1f58f9896dbeb7bd9f1765c561ab66f7/transformed/core-1.3.1/res
+com.csl.cupcake_factory.app-jetified-viewpager2-1.0.0-2 /Users/chamikasl/.gradle/caches/transforms-3/2fd8123c6e5cd86b1a22496583e9a8bb/transformed/jetified-viewpager2-1.0.0/res
+com.csl.cupcake_factory.app-drawerlayout-1.1.1-3 /Users/chamikasl/.gradle/caches/transforms-3/4582ef518ddf3979519761b92d8baeaa/transformed/drawerlayout-1.1.1/res
+com.csl.cupcake_factory.app-navigation-fragment-2.3.2-4 /Users/chamikasl/.gradle/caches/transforms-3/473929f317f924ba58c16cff3817f879/transformed/navigation-fragment-2.3.2/res
+com.csl.cupcake_factory.app-jetified-firebase-common-20.3.2-5 /Users/chamikasl/.gradle/caches/transforms-3/4fcdbf866b5d1ec0e62605fdc11ddf06/transformed/jetified-firebase-common-20.3.2/res
+com.csl.cupcake_factory.app-navigation-runtime-2.3.2-6 /Users/chamikasl/.gradle/caches/transforms-3/5e06b6ba273b7c42b58907aaf4dbd81c/transformed/navigation-runtime-2.3.2/res
+com.csl.cupcake_factory.app-jetified-appcompat-resources-1.2.0-7 /Users/chamikasl/.gradle/caches/transforms-3/60547b025818bfccaf919a661f21abe7/transformed/jetified-appcompat-resources-1.2.0/res
+com.csl.cupcake_factory.app-navigation-common-2.3.2-8 /Users/chamikasl/.gradle/caches/transforms-3/60db6fb6ce3fba9b4e0e17622319bdf5/transformed/navigation-common-2.3.2/res
+com.csl.cupcake_factory.app-coordinatorlayout-1.1.0-9 /Users/chamikasl/.gradle/caches/transforms-3/6df79f714e871bdee5c96a00eca21461/transformed/coordinatorlayout-1.1.0/res
+com.csl.cupcake_factory.app-recyclerview-1.1.0-10 /Users/chamikasl/.gradle/caches/transforms-3/73d9815c135058a0589fd45fa7e3feb1/transformed/recyclerview-1.1.0/res
+com.csl.cupcake_factory.app-jetified-lib-1.0.2-11 /Users/chamikasl/.gradle/caches/transforms-3/77d7b2c5763c0c5fa08c043afa554275/transformed/jetified-lib-1.0.2/res
+com.csl.cupcake_factory.app-jetified-play-services-basement-18.1.0-12 /Users/chamikasl/.gradle/caches/transforms-3/8b49c29737c2c2e92b3416c0869b0d60/transformed/jetified-play-services-basement-18.1.0/res
+com.csl.cupcake_factory.app-media-1.0.0-13 /Users/chamikasl/.gradle/caches/transforms-3/8d46addeab8f3f8317465c83706fafe0/transformed/media-1.0.0/res
+com.csl.cupcake_factory.app-jetified-android-image-cropper-2.7.0-14 /Users/chamikasl/.gradle/caches/transforms-3/8eac40d534cb73317458b9f82dd2153c/transformed/jetified-android-image-cropper-2.7.0/res
+com.csl.cupcake_factory.app-transition-1.3.0-15 /Users/chamikasl/.gradle/caches/transforms-3/9749221d06766ae005a8573560b87c19/transformed/transition-1.3.0/res
+com.csl.cupcake_factory.app-cardview-1.0.0-16 /Users/chamikasl/.gradle/caches/transforms-3/a0415c11c133b00f3f44774a92779b06/transformed/cardview-1.0.0/res
+com.csl.cupcake_factory.app-jetified-play-services-base-18.1.0-17 /Users/chamikasl/.gradle/caches/transforms-3/a9e782f5ff088881a477504433fba861/transformed/jetified-play-services-base-18.1.0/res
+com.csl.cupcake_factory.app-jetified-circleimageview-3.1.0-18 /Users/chamikasl/.gradle/caches/transforms-3/b0a58c4e6014f4ee7b60b80bb067e913/transformed/jetified-circleimageview-3.1.0/res
+com.csl.cupcake_factory.app-constraintlayout-2.0.4-19 /Users/chamikasl/.gradle/caches/transforms-3/b1384678b4122790ae630c62f2682dab/transformed/constraintlayout-2.0.4/res
+com.csl.cupcake_factory.app-fragment-1.2.4-20 /Users/chamikasl/.gradle/caches/transforms-3/bfaf9410cdfd496370bce35be55541c2/transformed/fragment-1.2.4/res
+com.csl.cupcake_factory.app-material-1.2.1-21 /Users/chamikasl/.gradle/caches/transforms-3/e46df92c3ec172ad3d771a8400752244/transformed/material-1.2.1/res
+com.csl.cupcake_factory.app-appcompat-1.2.0-22 /Users/chamikasl/.gradle/caches/transforms-3/f1bf9adc4fef5c39d765c149454ae4c0/transformed/appcompat-1.2.0/res
+com.csl.cupcake_factory.app-navigation-ui-2.3.2-23 /Users/chamikasl/.gradle/caches/transforms-3/faf95fcda5c0895755e6c3165c0ec7d9/transformed/navigation-ui-2.3.2/res
+com.csl.cupcake_factory.app-google-services-24 /Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/build/generated/res/google-services/debug
+com.csl.cupcake_factory.app-pngs-25 /Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/build/generated/res/pngs/debug
+com.csl.cupcake_factory.app-resValues-26 /Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/build/generated/res/resValues/debug
+com.csl.cupcake_factory.app-mergeDebugResources-27 /Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.csl.cupcake_factory.app-mergeDebugResources-28 /Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.csl.cupcake_factory.app-merged_res-29 /Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/build/intermediates/merged_res/debug
+com.csl.cupcake_factory.app-debug-30 /Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/debug/res
+com.csl.cupcake_factory.app-main-31 /Users/chamikasl/ICBT/3rd sem/mad/final/CSE5011_WRIT1 -Coursework (KG:HDCSE:CMU:17:10 - L.M.Chamika Supun Lansakara)/Project File/Cupcake Factory/app/src/main/res

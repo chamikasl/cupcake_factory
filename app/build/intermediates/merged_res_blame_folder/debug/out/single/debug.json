@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.csl.cupcake_factory.app-pngs-25:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_rounded_rectangle.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/rounded_rectangle.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_ic_plus.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_ic_minus.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/ic_minus.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.csl.cupcake_factory.app-pngs-25:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_user_toolbar.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/user_toolbar.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_admin_activity_add_new_category.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/admin_activity_add_new_category.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_user_activity_cart.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/user_activity_cart.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_profile.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/profile.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_cupcake_sample.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/cupcake_sample.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_nav_extra.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/nav_extra.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_company_logo.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/company_logo.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_input_design.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/input_design.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_ic_person_add.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/ic_person_add.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_ic_search.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.csl.cupcake_factory.app-pngs-25:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_ic_item.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/ic_item.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_cart_edit.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/cart_edit.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_ic_menu.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/ic_menu.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.csl.cupcake_factory.app-pngs-25:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_product_add_image.jpg.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/product_add_image.jpg"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_rounded_square.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/rounded_square.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_custom_background.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/custom_background.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_user_content.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/user_content.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_back_icon.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/back_icon.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_admin_activity_user_products.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/admin_activity_user_products.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.csl.cupcake_factory.app-pngs-25:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_user_activity_confirm_final_order.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/user_activity_confirm_final_order.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_user_cart_items_layout.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/user_cart_items_layout.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_buttons2.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/buttons2.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_ic_back.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/ic_back.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_rounded_corner.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/rounded_corner.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.csl.cupcake_factory.app-pngs-25:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_circle2.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/circle2.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_admin_activity_view_orders.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/admin_activity_view_orders.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_admin_activity_main_screen.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/admin_activity_main_screen.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_nav_logout.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/nav_logout.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_nav_cart.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/nav_cart.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_user_product_items_layout.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/user_product_items_layout.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_login_register_background_img.jpg.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/login_register_background_img.jpg"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_input_bg.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/input_bg.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_user_activity_product_details.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/user_activity_product_details.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/anim_fade.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/anim/fade.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_nav_menu.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/nav_menu.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_activity_register.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_user_activity_settings.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/user_activity_settings.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_transparent_background.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/transparent_background.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_buttons.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/buttons.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_side_nav_bar.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_user_activity_product_details_new.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/user_activity_product_details_new.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_ic_favorite.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_user_activity_search_products.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/user_activity_search_products.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_cart_delete.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/cart_delete.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_user_header.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/user_header.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_admin_orders_layout.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/admin_orders_layout.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_user_activity_home.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/user_activity_home.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_admin_ordered_items_layout.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/admin_ordered_items_layout.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/menu_main_menu.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_ic_cart.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/ic_cart.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_activity_login.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_activity_splash_screen.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.csl.cupcake_factory.app-pngs-25:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/layout_admin_activity_add_new_product.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/layout/admin_activity_add_new_product.xml"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.csl.cupcake_factory.app-merged_res-29:/drawable_circle.xml.flat",
+        "source": "com.csl.cupcake_factory.app-main-31:/drawable/circle.xml"
+    }
+]
